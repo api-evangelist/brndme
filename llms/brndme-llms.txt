@@ -1,0 +1,25 @@
+# BRND.ME
+
+> BRND.ME (legally Mensa Brand Technologies Private Limited) is an India-based house-of-brands company that acquires, builds, and scales digital-first consumer brands across Health, Wellness, Lifestyle, Fashion, Party & Celebration, and Home Decor. Founded by Ananth Narayanan and backed by Accel, it uses technology, data, and centralized operations to grow market-leading D2C brands from India for global customers. BRND.ME operates a corporate marketing presence and does not publish a public developer API.
+
+## Company
+- [Home](https://brndme.in/): Corporate home page.
+- [About](https://brndme.in/about/): Vision, mission, values, strategy, and leadership.
+- [Our Journey](https://brndme.in/our-journey/): Company milestones and timeline.
+- [Our Investors](https://brndme.in/our-investors/): Backers, including Accel.
+- [Blog](https://brndme.in/blog/): Company updates and stories.
+- [Careers](https://brndme.in/join-us/): Open roles and culture.
+
+## Brands
+- [Majestic Pure](https://majesticpure.com/)
+- [Botanic Hearth](https://www.botanichearth.in/)
+- [Dennis Lingo](https://www.dennislingo.com/)
+- [House of Ishin](https://house-of-ishin.com/)
+
+## Legal
+- [Privacy Policy](https://brndme.in/privacy-policy/)
+- [Terms of Use](https://brndme.in/terms-of-use/)
+
+## Network profile
+- [APIs.json profile](https://raw.githubusercontent.com/api-evangelist/brndme/refs/heads/main/apis.yml): API Evangelist network profile.
+- [Domain security probe](https://raw.githubusercontent.com/api-evangelist/brndme/refs/heads/main/security/brndme-domain-security.yml): TLS/HSTS/DNS security posture.
