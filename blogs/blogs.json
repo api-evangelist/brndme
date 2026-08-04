@@ -2,6 +2,13 @@
   "repo": "brndme",
   "feeds": [
     {
+      "source": "https://brndme.in/feed/",
+      "feed_url": "https://brndme.in/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://brndme.in/about/",
       "feed_url": "https://brndme.in/feed/",
       "title": "",
@@ -10,5 +17,5 @@
     }
   ],
   "post_count": 0,
-  "fetched": "2026-07-20T13:31:34Z"
+  "fetched": "2026-08-01T15:49:00Z"
 }
