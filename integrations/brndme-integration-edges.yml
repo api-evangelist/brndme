@@ -1,0 +1,18 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/brndme/integrations
+- https://zapier.com/apps/brnd-me/integrations
+- https://n8n.io/integrations/brndme/
+- https://composio.dev/toolkits/brndme
+- https://monid.ai/tools/brndme
+checked:
+- https://composio.dev/toolkits/brndme
+- https://monid.ai/tools/brndme
+- https://n8n.io/integrations/brndme/
+- https://zapier.com/apps/brnd-me/integrations
+- https://zapier.com/apps/brndme/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
